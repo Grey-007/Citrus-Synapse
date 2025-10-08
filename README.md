@@ -1,4 +1,4 @@
-# Citrus-Synapse
+# Citrus-Cynapse
 
 A fresh, citrus-inspired theme for Omarchy / Hyprland that blends vibrant greens, yellows, and teals to bring an energetic yet harmonious look to your Wayland desktop.
 
